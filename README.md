@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/aok207/Space-Tourism-Website](https://github.com/aok207/Space-Tourism-Website/)
+- Live Site URL: [https://space-tourism-website-azure-xi.vercel.app/](https://space-tourism-website-azure-xi.vercel.app/)
 
 ## My process
 
